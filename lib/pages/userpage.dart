@@ -32,7 +32,8 @@ class _UserpageState extends State<Userpage> {
                       autoPlay: true,
                       height: 250,
                       autoPlayCurve: Curves.fastOutSlowIn,
-                      autoPlayAnimationDuration: const Duration(milliseconds: 800),
+                      autoPlayAnimationDuration:
+                          const Duration(milliseconds: 800),
                       autoPlayInterval: const Duration(seconds: 2),
                       viewportFraction: 1.0,
                       enlargeCenterPage: true,
@@ -56,7 +57,8 @@ class _UserpageState extends State<Userpage> {
                         color: Colors.black.withOpacity(0.2),
                         spreadRadius: 3,
                         blurRadius: 5,
-                        offset: const Offset(0, 3), // changes position of shadow
+                        offset:
+                            const Offset(0, 3), // changes position of shadow
                       ),
                     ],
                   ),
@@ -88,7 +90,8 @@ class _UserpageState extends State<Userpage> {
                         color: Colors.black.withOpacity(0.2),
                         spreadRadius: 3,
                         blurRadius: 5,
-                        offset: const Offset(0, 3), // changes position of shadow
+                        offset:
+                            const Offset(0, 3), // changes position of shadow
                       ),
                     ],
                   ),
@@ -97,7 +100,7 @@ class _UserpageState extends State<Userpage> {
                     backgroundColor: Colors.white,
                     child: Icon(
                       Icons.search,
-                      size: 25,
+                      size: 26,
                       color:
                           Colors.black, // Set the color of the icon if needed
                     ),
@@ -115,7 +118,8 @@ class _UserpageState extends State<Userpage> {
                         color: Colors.black.withOpacity(0.2),
                         spreadRadius: 3,
                         blurRadius: 5,
-                        offset: const Offset(0, 3), // changes position of shadow
+                        offset:
+                            const Offset(0, 3), // changes position of shadow
                       ),
                     ],
                   ),
@@ -219,8 +223,7 @@ class _UserpageState extends State<Userpage> {
                     Text(
                       'with your Plus membership',
                       style: TextStyle(
-                          fontSize: 14,
-                          color: Color.fromARGB(255, 63, 59, 59)),
+                          fontSize: 14, color: Color.fromARGB(255, 63, 59, 59)),
                       textAlign: TextAlign.center,
                     ),
                   ],
@@ -282,8 +285,7 @@ class _UserpageState extends State<Userpage> {
                       'Unfurnished\napartment',
                       textAlign: TextAlign.center,
                       style: TextStyle(
-                          fontSize: 15,
-                          color: Color.fromARGB(255, 19, 18, 18)),
+                          fontSize: 15, color: Color.fromARGB(255, 19, 18, 18)),
                     ),
                   ],
                 ),
@@ -369,8 +371,7 @@ class _UserpageState extends State<Userpage> {
                       'Unfurnished\nbungalow',
                       textAlign: TextAlign.center,
                       style: TextStyle(
-                          fontSize: 15,
-                          color: Color.fromARGB(255, 19, 18, 18)),
+                          fontSize: 15, color: Color.fromARGB(255, 19, 18, 18)),
                     ),
                   ],
                 ),
@@ -395,8 +396,7 @@ class _UserpageState extends State<Userpage> {
                       'Add-ons',
                       textAlign: TextAlign.center,
                       style: TextStyle(
-                          fontSize: 15,
-                          color: Color.fromARGB(255, 19, 18, 18)),
+                          fontSize: 15, color: Color.fromARGB(255, 19, 18, 18)),
                     ),
                   ],
                 ),
