@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "212971571284",
+    "firebase_url": "https://signin1-5448f-default-rtdb.firebaseio.com",
+    "project_id": "signin1-5448f",
+    "storage_bucket": "signin1-5448f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212971571284:android:9d9eebb9aeb047ec91c5c1",
+        "android_client_info": {
+          "package_name": "com.example.dish_washer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212971571284-23f76jb3q5skoecnrcenfa84q7dkv5p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dish_washer",
+            "certificate_hash": "cd6f236a5ccde804626180fa917097068d98010b"
+          }
+        },
+        {
+          "client_id": "212971571284-jqtk3op3ndt73r7nf0eoiqvo4riv9uu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA70zUOP4MycaQ2WTeTIRCL9kPfBG4Q4tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212971571284-jqtk3op3ndt73r7nf0eoiqvo4riv9uu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
